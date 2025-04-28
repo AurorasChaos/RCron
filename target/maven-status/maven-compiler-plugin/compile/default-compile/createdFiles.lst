@@ -1,0 +1,6 @@
+com\aurachaos\rccron\CommandJob.class
+com\aurachaos\rccron\CronJobBuilder.class
+com\aurachaos\rccron\ConfigManager.class
+com\aurachaos\rccron\RCronCommand.class
+com\aurachaos\rccron\RCronPlugin.class
+com\aurachaos\rccron\ConfigManager$JobEntry.class
